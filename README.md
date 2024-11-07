@@ -2,5 +2,5 @@
 Task tracking calendar app
 
 # Requirements
-  tkinter library\n
+  tkinter library\
   python 3.10 or above
